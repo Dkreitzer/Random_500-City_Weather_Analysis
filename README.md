@@ -7,3 +7,4 @@
 * openweathermap-api to pull recent weather data for each city
 * Compare city latitude vs. [temp, humidity, wind-speed, cloudiness]
 * Visualize data with matplotlib scatter plots
+![plot](img/WeatherPy_Random_City_Analysis_Screenshot.png)
